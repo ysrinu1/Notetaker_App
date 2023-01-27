@@ -19,7 +19,7 @@ An express.js full-stack application that allows the end user to notate and orga
 ![alt text](https://img.shields.io/badge/JavaScript-.js-yellowgreen)
 ![alt text](https://img.shields.io/badge/HostingSite-Heroku-blue)
 
-## [Link to Application](https://estee3-note-taker-app.herokuapp.com/)
+## [Link to Application](https://ysrinu1.github.io/)
 
 ## Application Demo Video
 ![Demonstration Video](./public/assets/media/Demo.gif)
